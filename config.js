@@ -47,27 +47,27 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/rellz.fvnkyy' //Link Instagrammu
-global.sgh = 'https://github.com/rellzxd' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/IqFfoXcdh7UFyPoQTpKoQp'
+global.sig = 'https://instagram.com/renzzzaja' //Link Instagrammu
+global.sgh = 'https://github.com/RenzzBOT' //Link Githubmu
+global.sgc = '-'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '087833306677' //Nomor Danamu
-global.ppulsa = '087833306677' //Xl
-global.psaweria = 'https://saweria.com/RellzFvnkyy' //Link Saweriamu Kalo Nggada Ketik - aja
+global.pdana = '85649152599' //Nomor Danamu
+global.ppulsa = '-' //Xl
+global.psaweria = 'https://saweria.co/renzzxraa' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285876138954' //Nomor Bot
-global.nomorown = '84352438984' //Nomor Owner
-global.namebot = 'Fvnkyy BOTz' //Nama Bot
-global.nameown = 'Rellz' // Nama Owner
+global.nomorbot = '6287864993367' //Nomor Bot
+global.nomorown = '6485649152599' //Nomor Owner
+global.namebot = 'Renzz BOTz' //Nama Bot
+global.nameown = 'Khoirun' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['84352438984', '❦ rellz 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6485649152599', '❦ khoirun 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -99,12 +99,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 FVNKYY BOTZ 汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘FVNKYY BOTZ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = 'FVNKYY BOTZ'
+global.wm = '                「 Renzz BOTZ 汉  」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘R3nzz BOTZ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = 'Reenzzz BOTZ'
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
-global.titlebot = 'By Rellz'
+global.titlebot = 'By Khoirun'
 global.author = global.wm
 global.logo = 'https://ibb.co/17RY7x9'
 
